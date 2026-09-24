@@ -1,6 +1,6 @@
 ## Bem-vinde ao perfil de Eli Maida!😁
 
-
+Olá!Eu me chamo Elice, tenho 23 anos, tecnóloga em Jogos Digitais e estudande de cibersegurança pelo programa mulher digital!
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
